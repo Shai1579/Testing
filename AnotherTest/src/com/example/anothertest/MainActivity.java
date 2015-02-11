@@ -21,7 +21,7 @@ public class MainActivity extends ActionBarActivity {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				TextView tv = (TextView)findViewById(R.id.textView1);
-				tv.setText("Flipikipu");
+				tv.setText("Pickachuu");
 			}
 		});
     }
